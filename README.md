@@ -192,9 +192,17 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 
 ```mermaid
 graph LR
-    A["Mes 1-3<br/>Fase de Activación<br/>1,098 → 2,500 seg"] --> B["Mes 4-6<br/>Fase de Engagement<br/>2,500 → 5,000 seg"]
-    B --> C["Mes 7-9<br/>Fase de Consolidación<br/>5,000 → 8,000 seg"]
-    C --> D["Mes 10-12<br/>Fase de Autoridad<br/>8,000 → 12,000+ seg"]
+    A["Mes 1-3
+    Activacion
+    1098 a 2500 seg"] --> B["Mes 4-6
+    Engagement
+    2500 a 5000 seg"]
+    B --> C["Mes 7-9
+    Consolidacion
+    5000 a 8000 seg"]
+    C --> D["Mes 10-12
+    Autoridad
+    8000 a 12000+ seg"]
 ```
 
 | Fase | Período | Meta Seguidores | Engagement Target | Foco Principal |
