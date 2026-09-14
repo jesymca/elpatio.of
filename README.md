@@ -9,7 +9,7 @@
 
 ## 1. Dashboard General
 
-![Dashboard de métricas principales de El Patio Beer&Grill](/home/herrera/.gemini/antigravity/brain/1ef55053-d64b-48bf-87d7-9744e4527c71/dashboard_overview_1789411152551.jpg)
+![Dashboard de métricas principales de El Patio Beer&Grill](/img/dashboard_overview_1789411152551.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 
 ## 4. Benchmark vs. Industria
 
-![Comparación con benchmarks de la industria](/home/herrera/.gemini/antigravity/brain/1ef55053-d64b-48bf-87d7-9744e4527c71/benchmark_comparison_1789411168433.jpg)
+![Comparación con benchmarks de la industria](/img/benchmark_comparison_1789411168433.jpg)
 
 | Indicador | El Patio | Promedio Nano | Meta Recomendada |
 |:---|:---:|:---:|:---:|
@@ -104,7 +104,7 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 
 ## 6. Estrategia de Crecimiento Propuesta
 
-![Funnel de estrategia de crecimiento](/home/herrera/.gemini/antigravity/brain/1ef55053-d64b-48bf-87d7-9744e4527c71/growth_strategy_1789411160949.jpg)
+![Funnel de estrategia de crecimiento](/img/growth_strategy_1789411160949.jpg)
 
 ---
 
