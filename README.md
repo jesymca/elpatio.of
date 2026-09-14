@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/img/logo.png" alt="El Patio Logo" width="120">
+</p>
+
 # 📊 Informe de Análisis — Instagram @elpatio.of
 
 **Cliente:** 𝙀𝙡 𝙥𝙖𝙩𝙞𝙤 | Beer & Grill
@@ -237,3 +241,16 @@ graph LR
 ---
 
 > *Informe generado el 14 de septiembre de 2026. Los datos de seguidores, publicaciones y seguidos son reales obtenidos directamente del perfil público. Las métricas de engagement son estimaciones basadas en benchmarks de la industria de F&B para cuentas Nano en Instagram (fuentes: Hootsuite, Dash Social, SociaVault, 2025-2026). Para métricas exactas de engagement, saves, shares y alcance, se requiere acceso a Instagram Insights de la cuenta.*
+
+---
+
+<p align="center">
+  <img src="/img/logo.png" alt="El Patio Logo" width="80">
+</p>
+
+<p align="center">
+  <strong>Elaborado por:</strong><br>
+  <strong>Jose Herrera</strong><br>
+  📧 <a href="mailto:herrejose@gmail.com">herrejose@gmail.com</a><br>
+  🌐 <a href="https://emprendimientojh.blogspot.com/">emprendimientojh.blogspot.com</a>
+</p>
