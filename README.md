@@ -93,7 +93,7 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 - **Posible ausencia de estrategia de Reels y Stories**
 
 ### 🚀 Oportunidades
-- **Alto margen de crecimiento:** Pasar de 1K a 5K seguidores es alcanzable en 3-6 meses con estrategia
+- **Margen de crecimiento constante:** Sumar +200 a +800 seguidores por trimestre es alcanzable con estrategia
 - **Reels virales:** El contenido gastronómico y de bebidas tiene alto potencial de viralización
 - **Contenido UGC:** Los clientes pueden generar contenido etiquetando al local
 - **Eventos temáticos:** Noches de trivia, degustaciones, music live → contenido orgánico
@@ -115,7 +115,7 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 ## 7. Propuestas de Campañas de Marketing
 
 ### 🎯 Campaña 1: "Patio Vibes" — Awareness & Alcance
-**Objetivo:** Duplicar seguidores en 90 días (1,098 → 2,200+)
+**Objetivo:** Ganar los primeros 200 seguidores nuevos en 90 días (1,098 → 1,300)
 
 | Elemento | Detalle |
 |:---|:---|
@@ -125,7 +125,7 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 | **Hashtags** | Mix de nicho + locales (15-20 por post) |
 | **CTA** | "Síguenos para no perderte nada" |
 | **Presupuesto sugerido** | $150-300 USD/mes en Instagram Ads (alcance local) |
-| **KPI** | +500 seguidores/mes, alcance de Reels >5K por post |
+| **KPI** | +60-70 seguidores/mes, alcance de Reels >1K por post |
 
 ---
 
@@ -170,7 +170,7 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 | **Mecánica** | Sorteo conjunto ("Sigue ambas cuentas + comenta") |
 | **CTA** | "Participa siguiendo a ambos" |
 | **Presupuesto** | $100-200/mes (producto + logística) |
-| **KPI** | +300 seguidores por colaboración, alcance cruzado >10K |
+| **KPI** | +50-80 seguidores por colaboración, alcance cruzado >2K |
 
 ---
 
@@ -194,23 +194,23 @@ Engagement Rate Estimado = ~1.82% (por debajo del promedio Nano: 4.0%–4.2%)
 graph LR
     A["Mes 1-3
     Activacion
-    1098 a 2500 seg"] --> B["Mes 4-6
+    1098 a 1300 seg"] --> B["Mes 4-6
     Engagement
-    2500 a 5000 seg"]
+    1300 a 1700 seg"]
     B --> C["Mes 7-9
     Consolidacion
-    5000 a 8000 seg"]
+    1700 a 2300 seg"]
     C --> D["Mes 10-12
-    Autoridad
-    8000 a 12000+ seg"]
+    Crecimiento
+    2300 a 3100 seg"]
 ```
 
 | Fase | Período | Meta Seguidores | Engagement Target | Foco Principal |
 |:---|:---|:---:|:---:|:---|
-| **Activación** | Mes 1-3 | 2,500 | 3.5% | Volumen de publicación + Reels |
-| **Engagement** | Mes 4-6 | 5,000 | 4.2% | Comunidad + UGC + Stories |
-| **Consolidación** | Mes 7-9 | 8,000 | 4.5% | Colaboraciones + Ads |
-| **Autoridad** | Mes 10-12 | 12,000+ | 5.0% | Liderazgo de categoría local |
+| **Activación** | Mes 1-3 | 1,300 (+200) | 2.5% | Volumen de publicación + Reels |
+| **Engagement** | Mes 4-6 | 1,700 (+400) | 3.0% | Comunidad + UGC + Stories |
+| **Consolidación** | Mes 7-9 | 2,300 (+600) | 3.5% | Colaboraciones + Ads |
+| **Crecimiento** | Mes 10-12 | 3,100 (+800) | 4.0% | Posicionamiento de categoría local |
 
 ---
 
@@ -230,7 +230,7 @@ graph LR
 ## 11. Conclusión y Próximos Pasos
 
 > [!TIP]
-> **El Patio Beer & Grill** tiene una base sólida pero subutilizada. El principal problema no es la falta de seguidores, sino la **frecuencia de publicación críticamente baja**. Con una estrategia de contenido consistente y las campañas propuestas, el perfil puede multiplicar por 10 su alcance en 12 meses.
+> **El Patio Beer & Grill** tiene una base sólida pero subutilizada. El principal problema no es la falta de seguidores, sino la **frecuencia de publicación críticamente baja**. Con una estrategia de contenido consistente y las campañas propuestas, el perfil puede triplicar su base de seguidores en 12 meses.
 
 ### Acciones Inmediatas (Semana 1-2):
 1. ✅ Optimizar bio con CTA claro + link de reservaciones
@@ -240,11 +240,11 @@ graph LR
 5. ✅ Configurar Highlights (Stories destacadas): Menú, Eventos, Opiniones, Ubicación
 
 ### Métricas de Éxito a 90 días:
-- 📈 Seguidores: 1,098 → **2,500+**
-- 💬 Engagement rate: ~1.82% → **3.5%+**
-- 📱 Publicaciones: 20 → **70+** (acumulado)
-- 🎬 Reels publicados: **40+**
-- 📊 Alcance mensual: **15,000+ cuentas**
+- 📈 Seguidores: 1,098 → **1,300** (+200)
+- 💬 Engagement rate: ~1.82% → **2.5%+**
+- 📱 Publicaciones: 20 → **50+** (acumulado)
+- 🎬 Reels publicados: **20+**
+- 📊 Alcance mensual: **3,000+ cuentas**
 
 ---
 
